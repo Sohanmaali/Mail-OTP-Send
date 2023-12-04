@@ -13,9 +13,9 @@ public class SendMail {
 
     private String msgSubject = new String();
     private String msgText = new String();
-    private final String USER_NAME = "sohanmaali144@gmail.com";   // Reasever Mail (User Mail)
-    final String PASSSWORD = "dckl aaps fzca lwez";  //Password of the Goole(gmail) account
-    final static String SENDER = "sohanmaali4@gmail.com";  // Sender gmail addresss
+    private final String USER_NAME = "";   // Reasever Mail (User Mail)
+    final String PASSSWORD = "";  //Password of the Goole(gmail) account
+    final static String SENDER = "";  // Sender gmail addresss
 
     public static void main(String[] args) {
         SendMail email = new SendMail();
